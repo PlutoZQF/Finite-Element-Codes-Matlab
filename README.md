@@ -1,5 +1,4 @@
-# Finite Element Codes Matlab
-Matlab codes for finite element methods.  
+# Matlab Codes for Finite Element Methods
 run input.m  
 
 
